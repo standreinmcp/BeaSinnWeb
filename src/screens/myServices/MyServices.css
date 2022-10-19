@@ -26,3 +26,23 @@
     margin-left: 28px;
     margin-top: 30px;
 }
+
+.myServicesYouSave { 
+    font-size: 20px;
+    color: #D41812;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 40px;
+}
+
+.myServicesPriceDetails { 
+    font-size: 20px;
+    font-family: 'Raleway';
+    color: #3498DB; 
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.myServicesPrice { 
+    color: #D41812
+}

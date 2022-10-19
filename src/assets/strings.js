@@ -28,6 +28,12 @@ const myServicesServiceOneText = 'Igienizare & Detartraj';
 const myServicesServiceTwoText = 'Plombe'; 
 const myServicesDetails = `Pentru ca sunt inca studenta, toate acestea sunt gratis.
 Pentru a ma imbunatati, fac asta pentru amandoi, pentru tine, un sambet frumos, iar pentru mine, data viitoare cand vii, te voi impresiona cu noile mele abilitati.`;
+const myServicesYouSave = 'Salvezi!'
+const myServicesBetween = 'Între';
+const myServicesServiceOnePrice = '150 - 300 de lei'; 
+const myServicesServiceTwoPrice = '450 - 500 de lei';
+const myServicesForServiceOne = 'pentru o igienizare, și';
+const myServicesForServiceTwo = 'pentru o plomba!';
 
 
 export { 
@@ -44,5 +50,11 @@ export {
     myServicesServiceOneText, 
     myServicesServiceTwoText,
     myServicesDetails,
+    myServicesYouSave, 
+    myServicesBetween, 
+    myServicesServiceOnePrice, 
+    myServicesServiceTwoPrice, 
+    myServicesForServiceOne, 
+    myServicesForServiceTwo,
     title
 };
