@@ -1,5 +1,3 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { Header } from './components'; 
 import { HomePage, MyStory, MyServices, ContactDetails } from './screens'; 
@@ -10,7 +8,6 @@ function App() {
       <div className="appContainer">
         <Header />
         <HomePage />
-        
       </div>
       <MyStory />
       <MyServices />

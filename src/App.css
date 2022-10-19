@@ -2,11 +2,12 @@
   display: flex;
   flex: 1; 
   flex-direction: column;
-  background: url("./assets/svgImages/landingPageBackground.svg") center  center fixed;
+  background: url("./assets/svgImages/landingPageBackground.svg");
   background-size: cover;
-  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  height: 100vh;
+  background-position: top;
+  padding: 0;
+  height: 90vh;
 }

@@ -13,11 +13,10 @@
 
 .myServicesElementsContainer { 
     display: flex;
-    flex: 1;
     justify-content: space-between;
     margin-top: 45px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .myServicesDetails { 

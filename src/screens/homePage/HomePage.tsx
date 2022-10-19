@@ -1,5 +1,5 @@
 import './HomePage.css';
-import { homePageHeadline, homePageHeadlineDescription, homePageButton, homePageSubtitle } from '../../assets/strings'; 
+import { homePageHeadline, homePageHeadlineDescription, homePageButton } from '../../assets/strings'; 
 
 const HomePage = () => {
   return (
@@ -7,7 +7,6 @@ const HomePage = () => {
         <span className='homePageHeadline'>{homePageHeadline}</span>
         <span className='homePageHeadlineDescription'>{homePageHeadlineDescription}</span>
         <div className='homePageHeadlineBottom'>
-            <span className='homePageHeadlineSubtitle'>{homePageSubtitle}</span>
             <div className='homePageHeadlineActionButton'>
                 <span className='homePageHeadlineActionButtonText'>{homePageButton}</span>
             </div>

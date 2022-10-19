@@ -28,18 +28,6 @@
     position: absolute;
     bottom: 0;
     margin-bottom: 51px;
-    display: flex;
-    flex: 1;
-    align-items: center;
-    flex-direction: column;
-}
-
-.homePageHeadlineSubtitle { 
-    font-size: 24px;
-    color: white;
-    font-family: 'Raleway';
-    margin-left: 32px;
-    margin-right: 32px;
 }
 
 .homePageHeadlineActionButton { 
