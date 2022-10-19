@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Header } from './components'; 
-import { HomePage, MyStory } from './screens'; 
+import { HomePage, MyStory, MyServices } from './screens'; 
 
 function App() {
   return (
@@ -13,6 +13,7 @@ function App() {
         
       </div>
       <MyStory />
+      <MyServices />
     </div>
   );
 }

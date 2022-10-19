@@ -1,0 +1,21 @@
+.serviceContainer { 
+    display: flex;
+    
+}
+
+.serviceContainerImage { 
+    background-repeat: no-repeat;
+    height: 120px;
+    width: 162px;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.serviceLabel { 
+    font-size: 24px;
+    font-family: 'Raleway';
+    text-align: center;
+    color: white;
+}

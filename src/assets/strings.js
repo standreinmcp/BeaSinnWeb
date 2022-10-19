@@ -23,6 +23,12 @@ pare ca iti vine si tie
 sa zambesti ? Asa-i ? `; 
 const myStoryImageDescription = 'My Story Image';
 const myStoryTitle = 'My Story'; 
+const myServicesTitle = 'Ce pot oferii'; 
+const myServicesServiceOneText = 'Igienizare & Detartraj'; 
+const myServicesServiceTwoText = 'Plombe'; 
+const myServicesDetails = `Pentru ca sunt inca studenta, toate acestea sunt gratis.
+Pentru a ma imbunatati, fac asta pentru amandoi, pentru tine, un sambet frumos, iar pentru mine, data viitoare cand vii, te voi impresiona cu noile mele abilitati.`;
+
 
 export { 
     burgerMenuDescription, 
@@ -34,5 +40,9 @@ export {
     myStoryDescription,
     myStoryImageDescription, 
     myStoryTitle, 
+    myServicesTitle, 
+    myServicesServiceOneText, 
+    myServicesServiceTwoText,
+    myServicesDetails,
     title
 };

@@ -1,0 +1,28 @@
+.myServicesContainer { 
+    display: flex;
+    flex-direction: column;
+    margin-top: 44px;
+}
+
+.myServicesTitle { 
+    font-size: 32px;
+    color: #37000A;
+    text-align: center;
+    font-family: "Raleway";
+}
+
+.myServicesElementsContainer { 
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    margin-top: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.myServicesDetails { 
+    color: #37000A; 
+    margin-right: 28px;
+    margin-left: 28px;
+    margin-top: 30px;
+}
