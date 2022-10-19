@@ -34,6 +34,12 @@ const contactDetailsAddressText = 'Strada Hermann Oberth, Sibiu 557260, Centrul 
 const contactDetailsBeConfident = 'Fii Increzator in zambetul tau!'; 
 const contactDetailsSubtitle = `Impreuna, putem schimba
 modul in care mergi la dentist!`;
+const myServicesYouSave = 'Salvezi!'
+const myServicesBetween = 'Între';
+const myServicesServiceOnePrice = '150 - 300 de lei'; 
+const myServicesServiceTwoPrice = '450 - 500 de lei';
+const myServicesForServiceOne = 'pentru o igienizare, și';
+const myServicesForServiceTwo = 'pentru o plomba!';
 
 
 export { 
@@ -50,6 +56,12 @@ export {
     myServicesServiceOneText, 
     myServicesServiceTwoText,
     myServicesDetails,
+    myServicesYouSave, 
+    myServicesBetween, 
+    myServicesServiceOnePrice, 
+    myServicesServiceTwoPrice, 
+    myServicesForServiceOne, 
+    myServicesForServiceTwo,
     contactDetailsTitle,
     contactDetailsPhoneText,
     contactDetailsAddressText,
