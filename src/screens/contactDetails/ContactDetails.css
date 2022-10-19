@@ -1,0 +1,37 @@
+.contactDetailsContainer { 
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactDetailsTitle { 
+    font-size: 24px;
+    font-family: 'Raleway';
+    margin-left: 15px;
+    color: #37000A;
+}
+
+.contactDetailsContactContainer { 
+    margin-top: 30px;
+}
+
+.contactDetailsBeConfident { 
+    color: #3498DB; 
+    font-family: 'Raleway';
+    font-size: 26px;
+    margin-left: 21px;
+    margin-right: 21px;
+    margin-top: 64px;
+    text-align: center;
+}
+
+.contactDetailsSubtitle { 
+    font-family: 'Raleway';
+    font-size: 20px;
+    color: #37000A; 
+    margin-top: 14px;
+    margin-bottom: 34px;
+    margin-left: 56px;
+    margin-right: 56px;
+    text-align: center;
+}

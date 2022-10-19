@@ -1,0 +1,19 @@
+.contactContainer { 
+    display: flex;
+    flex-direction: row;
+    margin-left: 31px;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.contactIcon { 
+    color: #3498DB;
+}
+
+.contactLabel { 
+    margin-left: 21px;
+    color: #37000A;
+    font-size: 24px;
+    font-family: 'Raleway';
+}

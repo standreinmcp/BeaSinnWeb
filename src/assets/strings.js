@@ -28,6 +28,12 @@ const myServicesServiceOneText = 'Igienizare & Detartraj';
 const myServicesServiceTwoText = 'Plombe'; 
 const myServicesDetails = `Pentru ca sunt inca studenta, toate acestea sunt gratis.
 Pentru a ma imbunatati, fac asta pentru amandoi, pentru tine, un sambet frumos, iar pentru mine, data viitoare cand vii, te voi impresiona cu noile mele abilitati.`;
+const contactDetailsTitle = 'Suna-ma pentru o programare!';
+const contactDetailsPhoneText = '+40 757 995 754';
+const contactDetailsAddressText = 'Strada Hermann Oberth, Sibiu 557260, Centrul Stomatologic Universitar'; 
+const contactDetailsBeConfident = 'Fii Increzator in zambetul tau!'; 
+const contactDetailsSubtitle = `Impreuna, putem schimba
+modul in care mergi la dentist!`;
 
 
 export { 
@@ -44,5 +50,10 @@ export {
     myServicesServiceOneText, 
     myServicesServiceTwoText,
     myServicesDetails,
+    contactDetailsTitle,
+    contactDetailsPhoneText,
+    contactDetailsAddressText,
+    contactDetailsBeConfident,
+    contactDetailsSubtitle,
     title
 };
