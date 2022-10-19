@@ -1,0 +1,29 @@
+.myStoryContainer { 
+    margin-top: 60px;
+}
+
+.myStoryTitle { 
+    font-size: 32px;
+    font-family: 'Raleway';
+    margin-left: 22px;
+    margin-top: 100px;
+}
+
+.myStoryImageAndTextContainer { 
+    display: flex;   
+    flex: 1;
+    flex-direction: row;
+    margin-top: 28px;
+}
+
+.myStoryImage { 
+    height: 40%;
+    width: 45%;
+}
+
+.myStoryText { 
+    color: #37000A; 
+    font-size: 16px;
+    font-family: 'Montserrat';
+    margin-left: 16px;
+}
