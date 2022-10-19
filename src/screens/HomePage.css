@@ -1,0 +1,62 @@
+.homePageContainer { 
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.homePageHeadline { 
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    font-family: 'Raleway';
+    margin-right: 18px;
+    margin-left: 18px;
+}
+
+.homePageHeadlineDescription { 
+    font-size: 16px;
+    color: white; 
+    font-family: 'Raleway';
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-right: 53px;
+}
+
+.homePageHeadlineBottom { 
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 51px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    align-self: flex-end;    
+}
+
+.homePageHeadlineSubtitle { 
+    font-size: 24px;
+    color: white;
+    font-family: 'Raleway';
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+.homePageHeadlineActionButton { 
+    margin-top: 26px;
+    background-color: #3498DB;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 38px;
+    padding-left: 38px;
+    border-radius: 10px;
+    box-shadow: 0 4px 2px -2px gray;;
+}
+
+.homePageHeadlineActionButtonText { 
+    color: white; 
+    font-size: 18px;
+    font-family: 'Raleway';
+    font-weight: 600;
+}

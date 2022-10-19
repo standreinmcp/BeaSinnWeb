@@ -1,4 +1,4 @@
-.container { 
+.headerContainer { 
     display: flex;
     flex-direction: row; 
     justify-content: space-between;
@@ -10,12 +10,12 @@
     height: 60px;
 }
 
-.logo { 
+.headerLogo { 
     height: 36px;
     width: 35px;
 }
 
-.title { 
+.headerTitle { 
     font-size: 18px;
     font-style: normal;
     font-family: 'Raleway';
