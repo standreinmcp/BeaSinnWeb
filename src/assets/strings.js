@@ -39,7 +39,7 @@ const myServicesServiceOnePrice = '150 - 300 de lei';
 const myServicesServiceTwoPrice = '450 - 500 de lei';
 const myServicesForServiceOne = 'pentru o igienizare, și';
 const myServicesForServiceTwo = 'pentru o plomba!';
-
+const footerText = '© 2022 Dr. Beatrix Sinn /  All rights reserved'; 
 
 export { 
     burgerMenuDescription, 
@@ -65,5 +65,6 @@ export {
     contactDetailsAddressText,
     contactDetailsBeConfident,
     contactDetailsSubtitle,
+    footerText, 
     title
 };

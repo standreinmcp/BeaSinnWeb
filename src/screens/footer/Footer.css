@@ -1,0 +1,13 @@
+.footerContainer { 
+    display: flex;
+    height: 84px;
+    justify-content: center;
+    align-items: center;
+    background-color: #3498DB;
+}
+
+.footerText { 
+    font-size: 12px;
+    color: white; 
+    font-family: 'Raleway';
+}
