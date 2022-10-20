@@ -9,5 +9,6 @@
   -o-background-size: cover;
   background-position: top;
   padding: 0;
-  height: 92vh;
+  height: 100vh;
+  margin-top: -60px;
 }

@@ -11,8 +11,8 @@ import {
 function App() {
   return (
     <div>
+      <Header />
       <div className="appContainer">
-        <Header />
         <HomePage />
       </div>
       <MyStory />
